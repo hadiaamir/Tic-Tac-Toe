@@ -10,8 +10,6 @@
  * we can put a JLabel at the top of the window to display
  * any messages.
  *
- * Created: Sat Apr 16 2005
- *
  * @author Hadi Aamir
  * @version 1
  */
